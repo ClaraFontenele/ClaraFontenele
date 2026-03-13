@@ -3,13 +3,13 @@
 </section>
 
 # 🌎 Hello! I'm Clara 👋
-- 👋🏻 I'm a Computer Science student at [IESB](https://www.iesb.br) 📆 currently in my fourth semester.
+- 👋🏻 I'm a Computer Science student at [IESB](https://www.iesb.br) 📆 currently in my seventh semester.
 - 💻 I currently work at [SIGA PREGÃO](https://www.sigapregao.com.br) as Software Support, providing technical assistance, diagnosing issues, documenting solutions, and collaborating with development teams to enhance the system.
-- 🎯 Objective: This experience has been preparing me to advance my career as a Developer, combining my academic background in Computer Science with hands-on technical support practice.
+- 🎯 Objective: This experience has been preparing me to advance my career as a Developer and Data Analisys, combining my academic background in Computer Science with hands-on technical support practice.
 # 🟢🟡 Olá! Eu sou a Clara 👋
-- 👋🏻 Sou estudante de Ciência da Computação na instituição [IESB](https://www.iesb.br) 📆 Quarto Semestre.
+- 👋🏻 Sou estudante de Ciência da Computação na instituição [IESB](https://www.iesb.br) 📆 Sétimo Semestre.
 - 💻 Trabalho atualmente na [SIGA PREGÃO](https://www.sigapregao.com.br) Atuo como Suporte de Software, oferecendo assistência técnica, diagnosticando problemas, documentando soluções e colaborando com equipe de TI para melhorar o sistema.
-- 🎯 Objetivo: A experiência tem me preparado para avançar na carreira como Desenvolvedora, combinando minha formação em Ciência da Computação com prática no suporte técnico.
+- 🎯 Objetivo: A experiência tem me preparado para avançar na carreira como Desenvolvedora e analista de dados, combinando minha formação em Ciência da Computação com prática no suporte técnico.
 
 
 ## 📚 Habilidades / Skills
