@@ -23,7 +23,7 @@
 <!-- TROPHIES -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CraraMaria&theme=cyberpunk&column=6&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ClaraFontenele&theme=cyberpunk&column=6&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -119,7 +119,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📌 <a href="https://github.com/CraraMaria/JavaExerciciosResolvidos">Exercícios Resolvidos em Java</a></h4>
+      <h4>📌 <a href="https://github.com/ClaraFontenele/JavaExerciciosResolvidos">Exercícios Resolvidos em Java</a></h4>
       <p>Repositório focado no domínio de lógica de programação, estruturas de controle e rotinas de repetição.</p>
       <img src="https://img.shields.io/badge/Java-Logic-ED8B00?style=flat-square&logo=openjdk" />
     </td>
@@ -137,27 +137,27 @@
 <h3 align="center"><code>// TELEMETRY &gt; STATS & ACTIVITY</code></h3>
 
 <div align="center">
-  <a href="https://github.com/CraraMaria">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CraraMaria&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/ClaraFontenele">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ClaraFontenele&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/CraraMaria">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraraMaria&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/CraraMaria">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CraraMaria&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ClaraFontenele">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraFontenelea&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/CraraMaria">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CraraMaria&theme=react-dark&hide_border=true&area=true" alt="Gráfico de Atividades" />
+  <a href="https://github.com/ClaraFontenele">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaraFontenele&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ClaraFontenele">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ClaraFontenele&theme=react-dark&hide_border=true&area=true" alt="Gráfico de Atividades" />
   </a>
 </div>
 
@@ -168,9 +168,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CraraMaria/CraraMaria/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CraraMaria/CraraMaria/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/CraraMaria/CraraMaria/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaraFontenele/ClaraFontenele/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaraFontenele/ClaraFontenele/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/ClaraFontenele/ClaraFontenele/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
