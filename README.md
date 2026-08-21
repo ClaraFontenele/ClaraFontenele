@@ -20,14 +20,13 @@
 
 <br>
 
-<!-- GITHUB TROPHIES -->
+<!-- teste -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ClaraFontenele&theme=cyberpunk&column=6&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/🏆_TROPHY-FIRST_COMMIT-00F0FF?style=for-the-badge&logo=git&logoColor=000000" />
+  <img src="https://img.shields.io/badge/🏆_TROPHY-JAVA_CORE-FF0055?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆_TROPHY-DATA_ANALYST-00FF66?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/🏆_TROPHY-SUPPORT_HERO-FF9900?style=for-the-badge&logo=linux&logoColor=000000" />
 </div>
-
-<br>
 
 ---
 
