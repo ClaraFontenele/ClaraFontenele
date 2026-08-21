@@ -20,7 +20,7 @@
 
 <br>
 
-<!-- TROPHIES -->
+<!-- GITHUB TROPHIES -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ClaraFontenele&theme=cyberpunk&column=6&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
@@ -101,7 +101,7 @@
 
 <br>
 
-<!-- PROJETOS EM DESTAQUE (CARDS REAPROVEITADOS COM ESTILO MODERNIZADO) -->
+<!-- PROJETOS EM DESTAQUE -->
 <h3 align="center"><code>// SYSTEM_PROJECTS &gt; REPOSITÓRIOS EM DESTAQUE</code></h3>
 
 <table border="0" width="100%">
@@ -141,7 +141,7 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ClaraFontenele&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/ClaraFontenele">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraFontenelea&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraFontenele&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
